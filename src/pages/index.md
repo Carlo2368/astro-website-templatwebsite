@@ -2,7 +2,7 @@
 layout: '../layouts/Layout.astro'
 ---
 
-# Dzień dobry.
+# questa e la mie pagina
 To jest strona napisana w markdownie (pliku z rozszerzeniem .md).
 
 ## Możesz robić z tą stroną co chcesz:
